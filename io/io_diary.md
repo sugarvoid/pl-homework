@@ -7,7 +7,8 @@
     Did you struggle with learning the new language or did you find it natural to use? Explain.
 
 
-
+i did find a lot of useful examples here 
+https://github.com/IoLanguage/io/tree/master/samples
 
 
 quiz
